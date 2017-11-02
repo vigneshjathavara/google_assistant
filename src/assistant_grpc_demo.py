@@ -46,9 +46,7 @@ def main():
                     print('Bye!')
                     break
                 
-                if "Jacob" in text:
-                    aiy.audio.say('He is a Chutiya')
-                    continue
+              
                 
                 if 'recognize the song' in text:
                     #print('entered')
